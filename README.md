@@ -1,4 +1,4 @@
-# Backbone Stripe [![Build Status](https://secure.travis-ci.org/amccloud/backbone-stripe.png)](http://travis-ci.org/amccloud/backbone-stripe]) #
+# Backbone Stripe 
 A Backbone.Model wrapper around stripe.js.
 
 ## Example ##
